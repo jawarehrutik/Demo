@@ -1,6 +1,7 @@
 
 Developer Changes
 -----------------------------------------------------------
+<<<<<<< HEAD
 ======
 
 QA Changes
@@ -8,3 +9,10 @@ QA Changes
 =======
 Developer Changes
 ---------------------------------------------------------
+=======
+
+public static void dev()
+{
+
+}
+>>>>>>> 9e254b1 (dev 2 changes)
